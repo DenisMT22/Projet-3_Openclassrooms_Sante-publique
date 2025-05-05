@@ -51,8 +51,6 @@ Jupyter - Environnement de calcul interactif
 
 Spyder - Environnement de développement Python scientifique
 
-PowerPoint - Logiciel de présentation
-
 Python - Langage de programmation
 
 pandas - Bibliothèque de manipulation et d'analyse de données
